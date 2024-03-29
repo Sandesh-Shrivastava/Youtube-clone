@@ -1,4 +1,4 @@
-let div = document.getElementById("videosResults");
+let div = document.getElementById("videosResults"); 
 let input = document.getElementById("inputBox");
 input.addEventListener("keyup", function (event) {
     if (event.keyCode === 13) {
